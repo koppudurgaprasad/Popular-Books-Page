@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-page-bg-container{
+    background-color: #1b1b1b;
+    background-size: cover;
+}
+
+.home-page-bg-container-title{
+    font-family: "Bree Serif";
+    color: #ffffff;
+    padding: 16px;
+}
+
+.wings-of-fire-bg-container{
+    background-color: #e6f6ff;
+    margin: 16px;
+    border-radius: 10px;
+}
+
+.wings-of-fire-image{
+    height: 30vh;
+}
+
+.wings-of-fire-text-container{
+    font-family: "Bree Serif";
+    padding: 16px;
+}
+
+.wings-of-fire-title{
+    font-weight: bold;
+    color: #183b56;
+}
+
+.wings-of-fire-description{
+    color: #06070d;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.wings-of-fire-by{
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.Recommended-Books-title{
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    padding-left: 16px;
+    font-weight: bold;
+}
+
+.Recommended-Books-container{
+    padding-left: 16px;
+}
+
+.Recommended-Books-Image{
+    height: 25vh;
+    margin-bottom: 16px;
+}
+
+.Recommended-text-container{
+    font-family: "Bree Serif";
+    margin-top: -16px;
+    padding: 16px;
+}
+
+.Recommended-text-container-title{
+    color: #e4e7eb;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.Recommended-text-container-description{
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+.Recommended-Books-Details-bg-container{
+    background-color: #1b1b1b;
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+}
+
+.Recommended-Books-Details-image{
+    height: 30vh;
+    margin-top: 16px;
+}
+
+.Recommended-Books-Details-image-title{
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.Recommended-Books-Details-image-author{
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.Recommended-Books-Details-image-description{
+    color: #e4e7eb;
+    text-align: left;
+    padding-left: 16px;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.Back-button{
+    background-color: orange;
+    color: black;
+    border-radius: 6px;
+    border-width: 0px;
+}
